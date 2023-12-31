@@ -1,0 +1,16 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "first lec about node-js",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-js"
+  },
+  "author": "tanuj pratap",
+  "license": "ISC"
+}
